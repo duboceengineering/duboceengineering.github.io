@@ -1,0 +1,245 @@
+/******************************************************************************************************
+ *            DYNAMIC STYLE FOR style-aad06-nj7r2cvo
+ *                                 	 
+ ******************************************************************************************************/
+	 .style-aad06-asolnpbo .style-aad06-nj7r2cvo  .preview-content-holder  {
+		
+						margin-right: 0px;
+						padding-bottom: 0px;
+						text-align: center;
+						max-width: 700px;
+						padding-right: 0px;
+						margin-top: 50px;
+						margin-left: 0px;
+						padding-top: 0px;
+						margin-bottom: 50px;
+						background-color: rgba(255, 255, 255, 0);
+						border-color: rgba(253, 253, 253, 0.53);
+						padding-left: 0px;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-nj7r2cvo .item-content:not(.blocks_layout)  {
+		
+						background-color: rgba(0, 0, 0, 0);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-nj7r2cvo .preview-divider  {
+		
+						color: rgb(0, 0, 0);
+						border-color: rgb(154, 154, 154);
+						margin-top: 10px;
+						width: 35%;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-nj7r2cvo .inner-pic  {
+		
+						color: rgb(255, 255, 255);
+						opacity: 0.98;
+		    			-webkit-filter: brightness(0.8);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-nj7r2cvo .multi_layout .helper-div.middle-center .pic-side  {
+		
+						margin-left: -6%;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-nj7r2cvo .multi_layout .helper-div.middle-center  {
+		
+						padding-left: 6%;
+						padding-right: 6%;
+						width: 88%;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-nj7r2cvo.master.item-box   {
+		
+						background-color: rgb(255, 255, 255);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-nj7r2cvo .preview-title  ,  .style-aad06-asolnpbo .style-aad06-nj7r2cvo .preview-body h1  { 
+						font-size: 40px;
+						text-transform: uppercase;
+						color: rgb(154, 154, 154);
+						letter-spacing: 0.05em;
+						margin-top: 10px;
+						margin-bottom: 10px;
+						font-family: Montserrat;
+						background-color: rgba(255, 255, 255, 0);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-nj7r2cvo.master.item-box   {
+		
+						padding-left: 0%;
+						width: 100%;
+						padding-right: 0%;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-nj7r2cvo .preview-item-links span  ,  .style-aad06-asolnpbo .style-aad06-nj7r2cvo #sr-basket-widget *  { 
+						font-style: italic;
+						font-size: 18px;
+						color: rgb(154, 154, 154);
+						padding-bottom: 10px;
+						border-color: rgb(0, 0, 0);
+						letter-spacing: 0.05em;
+						padding-right: 20px;
+						margin-top: 10px;
+						padding-left: 20px;
+						padding-top: 10px;
+						font-family: 'Playfair Display';
+						background-color: rgba(0, 0, 0, 0);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-nj7r2cvo .stripe-background  {
+		
+						margin-left: 0%;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-nj7r2cvo .preview-element.icon-source  {
+		
+						color: rgb(0, 0, 0);
+						width: 50px;
+						margin-bottom: 15px;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-nj7r2cvo .background-image-div  {
+		
+						color: rgb(255, 255, 255);
+						background-color: rgb(0, 0, 0);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-nj7r2cvo .preview-link-img  {
+		
+						width: 33px;
+						margin: 4px;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-nj7r2cvo .preview-icon-holder  {
+		
+		    			-webkit-filter: invert(50%);filter: invert(50%);
+						margin-bottom: 40px;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-nj7r2cvo  .preview-content-wrapper  {
+		
+						text-align: center;
+						vertical-align: middle;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-nj7r2cvo .preview-item-links span:hover  ,  .style-aad06-asolnpbo .style-aad06-nj7r2cvo .preview-element.Link.hover-tester  { 
+						color: rgb(255, 255, 255);
+						background-color: rgba(0, 0, 0, 0);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-nj7r2cvo .inner-pic-holder  {
+		
+						background-color: rgb(35, 35, 35);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-nj7r2cvo .preview-item-links span:before  ,  .style-aad06-asolnpbo .style-aad06-nj7r2cvo .effect-tester  { 
+						background-color: rgba(0, 0, 0, 0);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-nj7r2cvo .preview-body  {
+		
+						font-family: Arial;
+						font-size: 15px;
+						color: rgb(0, 0, 0);
+						letter-spacing: 0.05em;
+						max-width: 600px;
+						margin-top: 10px;
+						margin-bottom: 20px;
+						line-height: 1.4em;	
+		}
+	
+	 .style-aad06-asolnpbo .style-aad06-nj7r2cvo .preview-social-holder  {
+		
+						margin-bottom: 10px;
+						margin-top: 20px;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-nj7r2cvo .middle_layout .helper-div  ,  .style-aad06-asolnpbo .style-aad06-nj7r2cvo .multi_layout .helper-div.middle-center .text-side  { 
+						max-width: 1000px;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-nj7r2cvo .preview-subtitle  ,  .style-aad06-asolnpbo .style-aad06-nj7r2cvo .preview-body h2  { 
+						line-height: 1.1em;
+						font-size: 16px;
+						color: rgb(154, 154, 154);
+						letter-spacing: 0.55em;
+						margin-right: 0px;
+						margin-top: 5px;
+						margin-left: 0px;
+						margin-bottom: 10px;
+						font-family: Abel;
+						background-color: rgba(0, 0, 0, 0);	
+		}
+
+/******************************************************************************************************
+ *            UNIQUE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+ .style-aad06-nj7r2cvo #vbid-aad06-swjnmchc .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-aad06-nj7r2cvo #vbid-aad06-up0pv9dy .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-aad06-nj7r2cvo #vbid-aad06-iaroznme .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-aad06-nj7r2cvo #vbid-aad06-0wpmxvlu .preview-content-holder{
+				
+							text-align : center;
+					
+				}
+
+
+ .style-aad06-nj7r2cvo #vbid-aad06-6hu4v7pg.inner-pic{
+				
+							background-position : 83.6865% 21.2913%;
+					
+				} .style-aad06-nj7r2cvo #vbid-aad06-ehejqeab.inner-pic{
+				
+							background-position : 100% 52.1359%;
+					
+				} .style-aad06-nj7r2cvo #vbid-aad06-5mqf1kbv.inner-pic{
+				
+							background-position : 29.6% 44.3689%;
+					
+				} .style-aad06-nj7r2cvo #vbid-aad06-8cjhfqub.inner-pic{
+				
+							background-position : 87.6% 47.6893%;
+					
+				} .style-aad06-nj7r2cvo #vbid-aad06-pkd6rwjp.inner-pic{
+				
+							background-position : 48.7461% 100%;
+					
+				} .style-aad06-nj7r2cvo #vbid-aad06-l7pabpd5.inner-pic{
+				
+							background-position : 44.4619% 100%;
+					
+				}
+
+
+
+
+
+
+
+
+
+
+
+ .style-aad06-nj7r2cvo #vbid-aad06-swjnmchc .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-aad06-nj7r2cvo #vbid-aad06-up0pv9dy .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-aad06-nj7r2cvo #vbid-aad06-iaroznme .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-aad06-nj7r2cvo #vbid-aad06-0wpmxvlu .preview-content-wrapper{
+				
+							text-align : center;
+					
+				}
+
+
+
+
+
+
+
+
+
+
+
+/******************************************************************************************************
+ *            WEBSITE STYLE
+ *                                 	 
+ ******************************************************************************************************/

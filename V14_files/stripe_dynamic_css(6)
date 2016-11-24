@@ -1,0 +1,279 @@
+/******************************************************************************************************
+ *            DYNAMIC STYLE FOR style-aad06-5zat1g99
+ *                                 	 
+ ******************************************************************************************************/
+	 .style-aad06-asolnpbo .style-aad06-5zat1g99  .preview-content-holder  {
+		
+						margin-right: 40px;
+						padding-bottom: 1px;
+						text-align: center;
+						max-width: 600px;
+						padding-right: 0px;
+						margin-top: 50px;
+						margin-left: 40px;
+						padding-top: 0px;
+						margin-bottom: 50px;
+						background-color: rgba(255, 255, 255, 0);
+						border-color: rgba(253, 253, 253, 0.53);
+						padding-left: 0px;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-5zat1g99 .item-content:not(.blocks_layout)  {
+		
+						opacity: rgba(0, 0, 0, 0);
+						background-color: rgba(0, 0, 0, 0);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-5zat1g99 .preview-divider  {
+		
+						border-color: rgb(241, 241, 241);
+						margin-top: 10px;
+						width: 20%;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-5zat1g99 .inner-pic  {
+		
+						color: rgb(255, 255, 255);
+						opacity: 1.1;
+		    			-webkit-filter: brightness(0.8);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-5zat1g99 .multi_layout .helper-div.middle-center .pic-side  {
+		
+						margin-left: -10%;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-5zat1g99 .multi_layout .helper-div.middle-center  {
+		
+						padding-left: 10%;
+						width: 80%;
+						padding-right: 10%;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-5zat1g99.master.item-box   {
+		
+						background-color: rgba(0, 0, 0, 0);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-5zat1g99 .preview-title  ,  .style-aad06-asolnpbo .style-aad06-5zat1g99 .preview-body h1  { 
+						font-size: 44px;
+						color: rgb(255, 255, 255);
+						letter-spacing: 0.05em;
+						margin-top: 5px;
+						margin-bottom: 10px;
+						font-family: Arial;
+						background-color: rgba(255, 255, 255, 0);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-5zat1g99 .draggable-pic-wrapper  {
+			
+		}
+	 .style-aad06-asolnpbo .style-aad06-5zat1g99.master.item-box   {
+		
+						padding-left: 0%;
+						width: 100%;
+						padding-right: 0%;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-5zat1g99 .draggable-pic  {
+			
+		}
+	 .style-aad06-asolnpbo .style-aad06-5zat1g99 .preview-item-links span  ,  .style-aad06-asolnpbo .style-aad06-5zat1g99 #sr-basket-widget *  { 
+						font-style: italic;
+						font-size: 15px;
+						color: rgb(241, 241, 241);
+						padding-bottom: 10px;
+						border-color: rgb(255, 255, 255);
+						letter-spacing: 0.1em;
+						padding-right: 20px;
+						margin-top: 10px;
+						padding-left: 20px;
+						padding-top: 10px;
+						font-family: 'Playfair Display';
+						background-color: rgba(0, 0, 0, 0);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-5zat1g99 .stripe-background  {
+		
+						margin-left: 0%;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-5zat1g99 .preview-element.icon-source  {
+		
+						color: rgb(0, 0, 0);
+						margin-bottom: 15px;
+						width: 100px;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-5zat1g99 .background-image-div  {
+		
+						color: rgb(255, 255, 255);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-5zat1g99 .preview-link-img  {
+		
+						width: 33px;
+						margin: 4px;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-5zat1g99 .preview-icon-holder  {
+		
+						margin-bottom: 40px;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-5zat1g99  .preview-content-wrapper  {
+		
+						text-align: center;
+						vertical-align: middle;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-5zat1g99 .preview-item-links span:hover  ,  .style-aad06-asolnpbo .style-aad06-5zat1g99 .preview-element.Link.hover-tester  { 
+						color: rgb(255, 255, 255);
+						background-color: rgba(0, 0, 0, 0);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-5zat1g99 .inner-pic-holder  {
+		
+						background-color: rgba(0, 0, 0, 0);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-5zat1g99 .preview-body  {
+		
+						line-height: 1.4em;
+						font-size: 18px;
+						color: rgb(255, 255, 255);
+						letter-spacing: 0.05em;
+						max-width: 600px;
+						margin-top: 10px;
+						margin-bottom: 20px;
+						font-family: Arial;
+						direction: ltr;	
+		}
+	
+	 .style-aad06-asolnpbo .style-aad06-5zat1g99 .preview-social-holder  {
+		
+						margin-bottom: 10px;
+						margin-top: 15px;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-5zat1g99 .middle_layout .helper-div  ,  .style-aad06-asolnpbo .style-aad06-5zat1g99 .multi_layout .helper-div.middle-center .text-side  { 
+						max-width: 1000px;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-5zat1g99 .preview-subtitle  ,  .style-aad06-asolnpbo .style-aad06-5zat1g99 .preview-body h2  { 
+						font-style: italic;
+						font-size: 18px;
+						color: rgb(255, 255, 255);
+						letter-spacing: 0.55em;
+						margin-right: 0px;
+						margin-top: 10px;
+						margin-left: 0px;
+						font-family: Abel;
+						margin-bottom: 10px;
+						line-height: 1.1em;
+						background-color: rgba(0, 0, 0, 0);	
+		}
+
+/******************************************************************************************************
+ *            UNIQUE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+ .style-aad06-5zat1g99 #vbid-aad06-7hw4a3cc .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-aad06-5zat1g99 #vbid-aad06-uwta9cg1 .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-aad06-5zat1g99 #vbid-aad06-wmfsevc3 .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-aad06-5zat1g99 #vbid-aad06-cavyyewm .preview-content-holder{
+				
+							text-align : center;
+					
+				}
+
+
+ .style-aad06-5zat1g99 #vbid-aad06-zlfqan3f.inner-pic{
+				
+							background-position : 26.4368% 17.9047%;
+					
+				} .style-aad06-5zat1g99 #vbid-aad06-gz3rp8rk.inner-pic{
+				
+							background-position : 87.6% 47.6893%;
+					
+				} .style-aad06-5zat1g99 #vbid-aad06-tewfvqa1.inner-pic{
+				
+							background-position : 29.6% 44.3689%;
+					
+				} .style-aad06-5zat1g99 #vbid-aad06-sotrghlt.inner-pic{
+				
+							background-position : 45.6719% 43.7624%;
+					
+				} .style-aad06-5zat1g99 #vbid-aad06-h8byxrbl.inner-pic{
+				
+							background-position : 48.7461% 100%;
+					
+				} .style-aad06-5zat1g99 #vbid-aad06-ajzsjlw8.inner-pic{
+				
+							background-position : 83.6865% 21.2913%;
+					
+				} .style-aad06-5zat1g99 #vbid-aad06-lkqpq97s.inner-pic{
+				
+							background-position : 44.4619% 100%;
+					
+				} .style-aad06-5zat1g99 #vbid-aad06-92fbvj9e.inner-pic{
+				
+							background-position : 51.9707% 44.8272%;
+					
+				} .style-aad06-5zat1g99 #vbid-aad06-brkmwryo.inner-pic{
+				
+							background-position : 0% 45.2562%;
+					
+				}
+
+
+
+
+.desktop-mode .style-aad06-5zat1g99 #vbid-aad06-fmco0m2n-wrapper.draggable-pic-wrapper{
+				
+							top : -52px;
+					
+							left : 188px;
+					
+							height : 620px;
+					
+							width : 622px;
+					
+				}
+
+ .style-aad06-5zat1g99 #vbid-aad06-fmco0m2n.draggable-pic{
+				
+							-webkit-filter: grayscale(100%) brightness(0.6);
+						
+					
+							background-position : center center;
+					
+							background-size : cover;
+					
+				}
+
+
+
+
+
+
+ .style-aad06-5zat1g99 #vbid-aad06-7hw4a3cc .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-aad06-5zat1g99 #vbid-aad06-uwta9cg1 .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-aad06-5zat1g99 #vbid-aad06-wmfsevc3 .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-aad06-5zat1g99 #vbid-aad06-cavyyewm .preview-content-wrapper{
+				
+							text-align : center;
+					
+				}
+
+
+
+
+
+
+
+
+
+
+/******************************************************************************************************
+ *            WEBSITE STYLE
+ *                                 	 
+ ******************************************************************************************************/

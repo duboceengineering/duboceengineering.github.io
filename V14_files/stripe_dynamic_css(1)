@@ -1,0 +1,273 @@
+/******************************************************************************************************
+ *            DYNAMIC STYLE FOR style-aad06-hb4r4rza
+ *                                 	 
+ ******************************************************************************************************/
+	 .style-aad06-asolnpbo .style-aad06-hb4r4rza .title-holder  {
+		
+						text-align: center;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-hb4r4rza .Title  ,  .style-aad06-asolnpbo .style-aad06-hb4r4rza .Body h1  { 
+						color: #8a7373;
+						letter-spacing: 0.15em;
+						font-family: open-sans;
+						font-size: 36px;
+						font-weight: bold;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-hb4r4rza  .preview-content-holder  {
+		
+						margin-right: 20px;
+						padding-bottom: 0px;
+						text-align: center;
+						max-width: 400px;
+						padding-right: 0px;
+						margin-top: 20px;
+						margin-left: 20px;
+						padding-top: 0px;
+						margin-bottom: 20px;
+						background-color: rgba(0, 0, 0, 0);
+						padding-left: 0px;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-hb4r4rza .item-content:not(.blocks_layout)  {
+		
+						background-color: rgb(239, 239, 239);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-hb4r4rza .preview-divider  {
+		
+						margin-bottom: 10px;
+						border-color: rgb(0, 0, 0);
+						margin-top: 5px;
+						width: 20%;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-hb4r4rza .inner-pic  {
+		
+						opacity: 1;
+						color: rgb(0, 0, 0);
+		    			-webkit-filter: brightness(0.8);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-hb4r4rza #pagination-holder  {
+		
+						font-style: italic;
+						font-size: 17px;
+						color: rgb(76, 76, 76);
+						padding-bottom: 5px;
+						border-color: rgb(85, 85, 85);
+						border-width: 1px;
+						padding-right: 15px;
+						padding-left: 15px;
+						padding-top: 5px;
+						margin-bottom: 40px;
+						font-family: 'Times New Roman';	
+		}
+	 .style-aad06-asolnpbo .style-aad06-hb4r4rza .multi_layout .helper-div.middle-center .pic-side  {
+		
+						margin-left: -6%;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-hb4r4rza .multi_layout .helper-div.middle-center  {
+		
+						padding-left: 6%;
+						padding-right: 6%;
+						width: 88%;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-hb4r4rza .background-div  {
+			
+		}
+	 .style-aad06-asolnpbo .style-aad06-hb4r4rza.master.item-box   {
+		
+						background-color: rgb(255, 255, 255);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-hb4r4rza .preview-title  ,  .style-aad06-asolnpbo .style-aad06-hb4r4rza .preview-body h1  { 
+						font-family: Raleway;
+						font-size: 13px;
+						text-transform: uppercase;
+						color: rgb(0, 0, 0);
+						letter-spacing: 0.05em;
+						margin-top: 5px;
+						line-height: 1.2em;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-hb4r4rza.master.item-box   {
+		
+						padding-left: 6%;
+						width: 88%;
+						padding-right: 6%;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-hb4r4rza .preview-item-links span  ,  .style-aad06-asolnpbo .style-aad06-hb4r4rza #sr-basket-widget *  { 
+						font-style: italic;
+						font-size: 15px;
+						font-family: Arial;
+						color: rgb(0, 0, 0);
+						padding-bottom: 10px;
+						border-color: rgb(255, 255, 255);
+						letter-spacing: 0.1em;
+						padding-right: 15px;
+						margin-top: 5px;
+						padding-left: 15px;
+						border-radius: 20px;
+						padding-top: 10px;
+						margin-bottom: 10px;
+						border-width: 0px;
+						background-color: rgba(0, 0, 0, 0);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-hb4r4rza .blocks-preview-body  {
+		
+						line-height: 1.4em;
+						font-size: 15px;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-hb4r4rza .stripe-background  {
+		
+						margin-left: -6%;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-hb4r4rza .preview-element.icon-source  {
+		
+						width: 50px;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-hb4r4rza .blocks-preview-content-holder  {
+		
+						margin-bottom: 40px;
+						margin-top: 40px;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-hb4r4rza .background-image-div  {
+		
+						color: rgb(0, 0, 0);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-hb4r4rza .Subtitle  ,  .style-aad06-asolnpbo .style-aad06-hb4r4rza .Body h2  { 
+						font-family: ralewaythin;
+						font-size: 22px;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-hb4r4rza.item-box > .item-wrapper   {
+		
+						max-width: 2000px;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-hb4r4rza .blocks-preview-subtitle  {
+		
+						color: rgb(0, 0, 0);
+						font-size: 16px;
+						font-family: Raleway;
+						margin-top: 10px;
+						margin-bottom: 10px;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-hb4r4rza .preview-item-links span:before  ,  .style-aad06-asolnpbo .style-aad06-hb4r4rza .effect-tester  { 
+						background-color: rgb(0, 0, 0);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-hb4r4rza  .preview-content-wrapper  {
+		
+						text-align: center;
+						vertical-align: middle;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-hb4r4rza .preview-price  {
+		
+						color: rgb(255, 255, 255);
+						font-family: Arial;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-hb4r4rza .preview-item-links span:hover  ,  .style-aad06-asolnpbo .style-aad06-hb4r4rza .preview-element.Link.hover-tester  { 
+						color: rgb(0, 0, 0);
+						background-color: rgba(0, 0, 0, 0);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-hb4r4rza .subtitle-holder  {
+		
+						text-align: center;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-hb4r4rza .inner-pic-holder  {
+		
+						background-color: rgb(0, 0, 0);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-hb4r4rza .blocks-preview-divider  {
+		
+						color: rgb(0, 0, 0);
+						border-color: rgb(0, 0, 0);
+						border-bottom-width: 1px;
+						margin-top: 5px;
+						margin-bottom: 10px;
+						width: 10%;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-hb4r4rza .blocks-preview-title  {
+		
+						font-size: 40px;
+						text-transform: uppercase;
+						color: rgb(0, 0, 0);
+						margin-top: 10px;
+						margin-bottom: 10px;
+						font-family: Montserrat;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-hb4r4rza .preview-body  {
+		
+						line-height: 1.4em;
+						font-size: 13px;
+						color: rgb(0, 0, 0);
+						max-width: 500px;
+						margin-top: 10px;
+						margin-bottom: 10px;
+						font-family: Arial;	
+		}
+	
+	 .style-aad06-asolnpbo .style-aad06-hb4r4rza .blocks-preview-item-links .Link  {
+		
+						text-decoration: underline;
+						font-size: 20px;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-hb4r4rza .pic-side:after  ,  .style-aad06-asolnpbo .style-aad06-hb4r4rza .item-effect-tester  ,  .style-aad06-asolnpbo .style-aad06-hb4r4rza .sub.item-box:after  { 
+						background-color: rgb(234, 229, 217);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-hb4r4rza .preview-subtitle  ,  .style-aad06-asolnpbo .style-aad06-hb4r4rza .preview-body h2  { 
+						font-family: Raleway;
+						font-size: 12px;
+						color: rgb(0, 0, 0);
+						letter-spacing: 0em;
+						margin-right: 0px;
+						margin-top: 10px;
+						margin-left: 0px;
+						margin-bottom: 5px;
+						line-height: 1.4em;	
+		}
+
+/******************************************************************************************************
+ *            UNIQUE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+
+
+
+
+
+ .style-aad06-hb4r4rza #vbid-aad06-ttsms1ut.inner-pic{
+				
+							background-size : 100%, 100%;
+					
+							background-position : 42.3323% 1.2%, 42.3323% 1.2%;
+					
+				}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/******************************************************************************************************
+ *            WEBSITE STYLE
+ *                                 	 
+ ******************************************************************************************************/

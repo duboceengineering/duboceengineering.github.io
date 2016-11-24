@@ -1,0 +1,715 @@
+/******************************************************************************************************
+ *                                              STRIPE DATA STYLE
+ *                                 	 
+ ******************************************************************************************************/
+
+ 
+ #vbid-aad06-vmjpcdri.master.item-box    {
+	padding-top: 40px;
+	padding-bottom: 40px;
+} 
+ #vbid-aad06-vmjpcdri.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-aad06-4ma1oiu0.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 320px;
+} 
+ #vbid-aad06-4ma1oiu0.item-box > .item-wrapper    {
+	max-width: 914px;
+}
+ 
+ #vbid-aad06-krl27sym.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 802px;
+}
+ 
+ #vbid-aad06-hqyppapn.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 20px;
+	min-height: 241px;
+}
+ 
+ #vbid-aad06-l8m06jkh.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 1343px;
+}
+ 
+ #vbid-aad06-r3jbhrxy.master.item-box    {
+	min-height: 603px;
+}
+ 
+ #vbid-aad06-acpfails   {
+	background-position: 43.6865196228027% 53.7792205810547%;
+}
+ 
+ #vbid-aad06-dmtaeyz8.master.item-box    {
+	padding-top: 50px;
+	padding-bottom: 50px;
+} 
+ #vbid-aad06-dmtaeyz8.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-aad06-nayzkalg.master.item-box    {
+	padding-top: 10px;
+	padding-bottom: 0px;
+	min-height: 1343px;
+}
+ 
+ #vbid-aad06-sgfxfgvp.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 372px;
+}
+ 
+ #vbid-aad06-7ozxk2ni.master.item-box    {
+	padding-top: 20px;
+	padding-bottom: 20px;
+} 
+ #vbid-aad06-7ozxk2ni.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-aad06-au8bhl2m.master.item-box    {
+	padding-top: 0px;
+	min-height: 461px;
+} 
+ #vbid-aad06-au8bhl2m.item-box > .item-wrapper    {
+	max-width: 1684px;
+}
+ 
+ #vbid-aad06-barfavsv.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 208px;
+}
+ 
+ #vbid-aad06-kbbunyg1.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 308px;
+}
+ 
+ #vbid-aad06-2t6cs0xl.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+} 
+ #vbid-aad06-2t6cs0xl.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-aad06-rgwdekfk.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 912px;
+}
+ 
+ #vbid-aad06-pvj5zqdo.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 489px;
+} 
+ #vbid-aad06-pvj5zqdo.item-box > .item-wrapper    {
+	max-width: 1680px;
+}
+ 
+ #vbid-aad06-upbmafnv.master.item-box    {
+	padding-top: 70px;
+	padding-bottom: 70px;
+} 
+ #vbid-aad06-upbmafnv.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-aad06-bbr5xjlj.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 416px;
+} 
+ #vbid-aad06-bbr5xjlj.item-box > .item-wrapper    {
+	max-width: 1748px;
+}
+ 
+ #vbid-aad06-ln4cbhkj.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 114px;
+}
+ 
+ #vbid-aad06-vrac0ybu.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 771px;
+}
+ 
+ #vbid-aad06-m97w4l7h   {
+	background-position: 51.8808784484863% 24.1324920654297%;
+}
+ 
+ #vbid-aad06-ejs10thf.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 688px;
+}
+ 
+ #vbid-aad06-not1ogz2   {
+	background-position: 45.6293716430664% 22.344690322876%;
+}
+ 
+ #vbid-aad06-gih1qbqu   {
+	background-position: 36.0986557006836% 48.3706703186035%;
+}
+ 
+ #vbid-aad06-bya3hxzv.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 320px;
+}
+ 
+ #vbid-aad06-0budw5kc.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 372px;
+}
+ 
+ #vbid-aad06-u00ctzfn.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 466px;
+}
+ 
+ #vbid-aad06-fzgxodgu   {
+	background-size: 92%;
+}
+ 
+ #vbid-aad06-2vrqbczy   {
+	background-position: 54.0358734130859% 100%;
+}
+ 
+ #vbid-aad06-x7rqj5gb.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 241px;
+}
+ 
+ #vbid-aad06-e3vmq39y.master.item-box    {
+	padding-top: 20px;
+	padding-bottom: 20px;
+} 
+ #vbid-aad06-e3vmq39y.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-aad06-ngubmzf2.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 245px;
+}
+ 
+ #vbid-aad06-aa9mc3w3.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 349px;
+}
+ 
+ #vbid-aad06-ba6lwqn6.master.item-box    {
+	padding-top: 30px;
+	padding-bottom: 30px;
+} 
+ #vbid-aad06-ba6lwqn6.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-aad06-8wme2yka   {
+	background-position: 49.2685% 27.381%;
+}
+ 
+ #vbid-aad06-ocjr7xw0.master.item-box    {
+	min-height: 386px;
+}
+ 
+ #vbid-aad06-xepaak2a.master.item-box    {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 114px;
+} 
+ #vbid-aad06-xepaak2a.item-box > .item-wrapper    {
+	max-width: 1144px;
+}
+ 
+ #vbid-aad06-8toqmbe0.master.item-box    {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	min-height: 202px;
+}
+ 
+ #vbid-aad06-pvovdtgc.master.item-box    {
+	padding-bottom: 0px;
+	min-height: 883px;
+} 
+ #vbid-aad06-pvovdtgc.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-aad06-dfzfanlt.master.item-box    {
+	padding-top: 0px;
+	min-height: 503px;
+} 
+ #vbid-aad06-dfzfanlt.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-aad06-ffhedvjb   {
+	background-size: contain;
+}
+ 
+ #vbid-aad06-0tobbtrn.master.item-box    {
+	padding-top: 40px;
+	padding-bottom: 20px;
+} 
+ #vbid-aad06-0tobbtrn.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-aad06-4ugkyr6j   {
+	background-position: 23.3408069610596% 0%;
+}
+ 
+ #vbid-aad06-4lakkl8e.master.item-box    {
+	padding-top: 40px;
+	padding-bottom: 35px;
+} 
+ #vbid-aad06-4lakkl8e.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-aad06-b9gybb29.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 114px;
+} 
+ #vbid-aad06-b9gybb29.item-box > .item-wrapper    {
+	max-width: 1280px;
+}
+ 
+ #vbid-aad06-4bzjasnh.master.item-box    {
+	padding-top: 0px;
+	min-height: 421px;
+}
+ 
+ #vbid-aad06-ljlaay04.master.item-box    {
+	padding-top: 70px;
+	padding-bottom: 70px;
+} 
+ #vbid-aad06-ljlaay04.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+
+ 
+ #vbid-aad06-suafjyb4   {
+	background-position: 53.9237670898438% 51.5926666259766%;
+}
+ 
+ #vbid-aad06-uaqne6hy.master.item-box    {
+	padding-top: 70px;
+	padding-bottom: 60px;
+	min-height: 202px;
+} 
+ #vbid-aad06-uaqne6hy.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-aad06-jrquzuwx.master.item-box    {
+	padding-top: 25px;
+	padding-bottom: 40px;
+} 
+ #vbid-aad06-jrquzuwx.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-aad06-fwta1joe.master.item-box    {
+	padding-top: 40px;
+	padding-bottom: 40px;
+} 
+ #vbid-aad06-fwta1joe.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-aad06-xrvhu0j2.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 241px;
+}
+ 
+ #vbid-aad06-bhjq4vbt   {
+	background-size: contain;
+}
+ 
+ #vbid-aad06-btr4d00i.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 270px;
+}
+ 
+ #vbid-aad06-5rutnde3   {
+	background-position: 50% 31.2688827514648%;
+}
+ 
+ #vbid-aad06-mjp7nsjd.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 378px;
+}
+ 
+ #vbid-aad06-ougq0mry.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 160px;
+}
+ 
+ #vbid-aad06-kwuyulxm.master.item-box    {
+	padding-top: 35px;
+	padding-bottom: 20px;
+	min-height: 202px;
+} 
+ #vbid-aad06-kwuyulxm.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-aad06-bpt1viua.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 713px;
+}
+ 
+ #vbid-aad06-x2vgonbw.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 296px;
+}
+ 
+ #vbid-aad06-10u9fv6m   {
+	background-position: 51.9258079528809% 44.8459205627441%;
+}
+ 
+ #vbid-aad06-axyx5wus.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 751px;
+}
+ 
+ #vbid-aad06-qmytel2a   {
+	background-position: 51.3452911376953% 16.8316841125488%;
+}
+ 
+ #vbid-aad06-6b1jo5yj.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 327px;
+}
+ 
+ #vbid-aad06-vbwn3vfv   {
+	background-position: 51.7937202453613% 11.3861389160156%;
+}
+ 
+ #vbid-aad06-yel06jy3.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 496px;
+}
+ 
+ #vbid-aad06-awbjltdb   {
+	background-position: 44.2089881896973% 48.3110046386719%;
+}
+ 
+ #vbid-aad06-ccdbylma.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 647px;
+}
+ 
+ #vbid-aad06-qe5ugpsz.master.item-box    {
+	padding-top: 30px;
+	padding-bottom: 40px;
+} 
+ #vbid-aad06-qe5ugpsz.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-aad06-vvsp6nfc.master.item-box    {
+	padding-top: 40px;
+	padding-bottom: 35px;
+} 
+ #vbid-aad06-vvsp6nfc.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-aad06-svcelfsg.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 713px;
+}
+ 
+ #vbid-aad06-l2wbygxo.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 361px;
+}
+ 
+ #vbid-aad06-nibczuon.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 82px;
+}
+ 
+ #vbid-aad06-mhlko8mz   {
+	background-position: 48.2062797546387% 23.9910316467285%;
+}
+ 
+ #vbid-aad06-9vxi9d1l.master.item-box    {
+	padding-top: 70px;
+	padding-bottom: 70px;
+} 
+ #vbid-aad06-9vxi9d1l.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-aad06-zies4pk3.master.item-box    {
+	padding-top: 30px;
+	padding-bottom: 40px;
+} 
+ #vbid-aad06-zies4pk3.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-aad06-ym7ybfjw   {
+	background-position: 41.9580421447754% 0%;
+}
+ 
+ #vbid-aad06-tvkbzwmo.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+ 
+ #vbid-aad06-4xhaabnc.master.item-box    {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	min-height: 1343px;
+}
+ 
+ #vbid-aad06-wzlmeziy.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 411px;
+}
+ 
+ #vbid-aad06-u8ynfi9t.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 320px;
+}
+ 
+ #vbid-aad06-2ddxiilz   {
+	background-position: 50.5673980712891% 54.6576156616211%;
+}
+ 
+ #vbid-aad06-fwft69mx.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 281px;
+}
+ 
+ #vbid-aad06-bwoo1kpn.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 241px;
+}
+ 
+ #vbid-aad06-und9nzwc   {
+	background-position: 54.0752334594727% 91.5584411621094%;
+}
+ 
+ #vbid-aad06-miv0yqt6   {
+	background-position: 48.4326019287109% 71.0374603271484%;
+}
+ 
+ #vbid-aad06-jplmhh7s.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 114px;
+}
+ 
+ #vbid-aad06-mhvw8azi   {
+	background-position: 56.0606079101563% 100%;
+}
+ 
+ #vbid-aad06-23zruk1k   {
+	background-position: 47.9101371765137% 31.5561962127686%;
+}
+ 
+ #vbid-aad06-hoesmwyz   {
+	background-position: 46.8609848022461% 26.2973518371582%;
+}
+ 
+ #vbid-aad06-lng3ozie.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 398px;
+}
+ 
+ #vbid-aad06-s04nrlzq.master.item-box    {
+	padding-top: 0px;
+	min-height: 497px;
+}
+ 
+ #vbid-aad06-ohxd73nt.master.item-box    {
+	padding-top: 20px;
+	padding-bottom: 20px;
+} 
+ #vbid-aad06-ohxd73nt.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-aad06-kqkfgw4p.master.item-box    {
+	min-height: 699px;
+}
+ 
+ #vbid-aad06-qjftlyig.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 114px;
+} 
+ #vbid-aad06-qjftlyig.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-aad06-mnct4aq8.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 233px;
+}
+ 
+ #vbid-aad06-tw2exkjr.master.item-box    {
+	min-height: 231px;
+}
+ 
+ #vbid-aad06-5p3ukbq7.master.item-box    {
+	padding-top: 60px;
+	padding-bottom: 80px;
+	min-height: 1343px;
+} 
+ #vbid-aad06-5p3ukbq7.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-aad06-9nkyvj5u.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 251px;
+}
+ 
+ #vbid-aad06-bkecrvqq.master.item-box    {
+	min-height: 773px;
+}
+ 
+ #vbid-aad06-bbkyrcjs.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 602px;
+}
+ 
+ #vbid-aad06-hwhuqrwt   {
+	background-position: 46.9696960449219% 89.3939361572266%;
+}
+ 
+ #vbid-aad06-fpgs4rsc.master.item-box    {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 114px;
+} 
+ #vbid-aad06-fpgs4rsc.item-box > .item-wrapper    {
+	max-width: 1144px;
+}
+ 
+ #vbid-aad06-zefuzc7d.master.item-box    {
+	padding-top: 15px;
+}
+ 
+ #vbid-aad06-wk7eka3n   {
+	background-position: 49.8955078125% 0.613496959209442%;
+}
+ 
+ #vbid-aad06-3r6rfpzh   {
+	background-position: 48.6415901184082% 26.6233768463135%;
+}
+ 
+ #vbid-aad06-3slyrapw.master.item-box    {
+	min-height: 231px;
+}
+ 
+ #vbid-aad06-xxa0ywoc   {
+	background-position: 12.0986547470093% 42.2062797546387%;
+}
+ 
+ #vbid-aad06-zudqmhed.master.item-box    {
+	padding-top: 70px;
+	padding-bottom: 70px;
+	min-height: 202px;
+} 
+ #vbid-aad06-zudqmhed.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-aad06-hboobojj.master.item-box    {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 114px;
+} 
+ #vbid-aad06-hboobojj.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-aad06-0ty31m8l   {
+	background-position: 48.6415901184082% 18.5064926147461%;
+}
+ 
+ #vbid-aad06-2ir5i6ey.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 373px;
+}
+ 
+ #vbid-aad06-uentbfpj   {
+	background-size: contain;
+}
+ 
+ #vbid-aad06-d28symla.master.item-box    {
+	padding-top: 50px;
+	padding-bottom: 50px;
+} 
+ #vbid-aad06-d28symla.item-box > .item-wrapper    {
+	max-width: 1000px;
+}
+ 
+ #vbid-aad06-e5gxg0tu.master.item-box    {
+} 
+ #vbid-aad06-e5gxg0tu.master.item-box    {
+	min-height: 365px;
+}
+ 
+ #vbid-aad06-d2t8bubw.master.item-box    {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 339px;
+}
+ 
+ #vbid-aad06-dqseijac.master.item-box    {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	min-height: 64px;
+}

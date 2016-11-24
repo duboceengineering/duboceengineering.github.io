@@ -1,0 +1,76 @@
+
+.page-navigator{
+	cursor:pointer;
+	float:left;
+	background-position: center;
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-image:url('/images/paginator.png');
+	width:13px;
+	height:13px;
+}
+
+.matrix .sub.item-box{
+	display:inline-block;
+	vertical-align:top;
+	
+}
+
+.matrix .sub.item-box.element-box{
+	display:inline-block;
+}
+
+.page-navigator.active , .page-navigator:hover{
+	color:red;
+	background-image:url('/images/paginator-active.png');
+	
+}
+
+.matrix #elements-holder{
+	display:inline-block;	
+	width:100%;
+}
+
+
+.matrix .sub.item-box:not(.element-box){
+	/*overflow: hidden;*/
+}
+
+.matrix .image-cover{
+	overflow: visible;
+}
+
+.matrix .preview-image-holder{
+	overflow: visible;
+}
+
+.matrix #items-holder-wrapper{
+	width:100%;
+	/*display:inline-block;*/
+	text-align:center;
+}
+
+.matrix #children{
+	height: 100%;
+	min-height: inherit;
+}
+
+.matrix #items-holder{
+	width:100%;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:left;
+	display:table;
+	font-size: 0px;
+}
+
+.matrix .element-wrapper .content, .element-wrapper .content p,.element-wrapper  {
+	/*margin-left:auto;*/
+	/*margin-right:auto;*/
+}
+
+.matrix .element-wrapper{
+	text-align:center;
+}
+
+

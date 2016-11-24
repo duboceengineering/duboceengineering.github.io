@@ -1,0 +1,332 @@
+/******************************************************************************************************
+ *            DYNAMIC STYLE FOR style-aad06-jyfnlvwj
+ *                                 	 
+ ******************************************************************************************************/
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj .title-holder  {
+		
+						text-align: center;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj .Title  ,  .style-aad06-asolnpbo .style-aad06-jyfnlvwj .Body h1  { 
+						color: #8a7373;
+						letter-spacing: 0.15em;
+						font-family: open-sans;
+						font-size: 36px;
+						font-weight: bold;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj  .preview-content-holder  {
+		
+						margin-right: 0px;
+						padding-bottom: 0px;
+						text-align: center;
+						max-width: 400px;
+						padding-right: 0px;
+						margin-top: 0px;
+						margin-left: 0px;
+						padding-top: 0px;
+						margin-bottom: 0px;
+						background-color: rgba(0, 0, 0, 0);
+						padding-left: 0px;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj .blocks-preview-body  {
+		
+						line-height: 1.5em;
+						font-size: 12px;
+						color: rgb(0, 0, 0);
+						margin-top: 10px;
+						margin-bottom: 10px;
+						font-family: Arial;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj .item-content:not(.blocks_layout)  {
+		
+						opacity: rgba(0, 0, 0, 0);
+						background-color: rgba(0, 0, 0, 0);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj .preview-divider  {
+		
+						border-style: solid;
+						width: 30%;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj .inner-pic  {
+		
+						opacity: 1;
+						color: rgb(0, 0, 0);
+		    			-webkit-filter:none;filter:none;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj #pagination-holder  {
+		
+						font-style: italic;
+						font-size: 17px;
+						color: rgb(76, 76, 76);
+						padding-bottom: 5px;
+						border-color: rgb(85, 85, 85);
+						border-width: 1px;
+						padding-right: 15px;
+						padding-left: 15px;
+						padding-top: 5px;
+						margin-bottom: 40px;
+						font-family: 'Times New Roman';	
+		}
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj .multi_layout .helper-div.middle-center .pic-side  {
+		
+						margin-left: -6%;	
+		}
+	
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj .blocks-preview-item-links .Link:hover  {
+		
+						color: rgb(255, 255, 255);
+						background-color: rgb(0, 0, 0);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj .multi_layout .helper-div.middle-center  {
+		
+						padding-left: 6%;
+						width: 88%;
+						padding-right: 6%;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj .background-div  {
+			
+		}
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj.master.item-box   {
+		
+						background-color: rgb(239, 239, 239);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj .preview-title  ,  .style-aad06-asolnpbo .style-aad06-jyfnlvwj .preview-body h1  { 
+						font-family: Raleway;
+						font-size: 14px;
+						color: rgb(0, 0, 0);
+						letter-spacing: 0.0em;
+						font-weight: bold;
+						margin-top: 15px;
+						margin-bottom: 0px;
+						line-height: 1.1em;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj.master.item-box   {
+		
+						padding-left: 6%;
+						padding-right: 6%;
+						width: 88%;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj .preview-item-links span  ,  .style-aad06-asolnpbo .style-aad06-jyfnlvwj #sr-basket-widget *  { 
+						font-family: Arial;
+						font-size: 12px;
+						color: rgb(255, 255, 255);
+						padding-bottom: 5px;
+						border-color: rgb(0, 0, 0);
+						letter-spacing: 0.1em;
+						padding-right: 15px;
+						margin-top: 10px;
+						padding-left: 15px;
+						border-radius: 16px;
+						padding-top: 5px;
+						margin-bottom: 15px;
+						border-width: 0px;
+						background-color: rgb(188, 188, 188);	
+		}
+	
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj .blocks-preview-subtitle-holder  {
+		
+						max-width: 800px;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj .stripe-background  {
+		
+						opacity: 0.31;
+		    			-webkit-filter: grayscale(100%) brightness(0.8);
+						margin-top: -15px;
+						margin-left: -6%;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj .preview-element.icon-source  {
+		
+						color: rgb(0, 0, 0);
+						width: 40px;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj .blocks-preview-content-holder  {
+		
+						margin-right: 0px;
+						padding-bottom: 0px;
+						text-align: center;
+						padding-right: 0px;
+						margin-top: 20px;
+						margin-left: 0px;
+						padding-top: 0px;
+						margin-bottom: 10px;
+						padding-left: 0px;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj .background-image-div  {
+		
+						color: rgb(0, 0, 0);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj .Subtitle  ,  .style-aad06-asolnpbo .style-aad06-jyfnlvwj .Body h2  { 
+						font-family: ralewaythin;
+						font-size: 22px;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj .blocks-preview-subtitle  {
+		
+						font-family: Raleway;
+						font-size: 14px;
+						color: rgb(0, 0, 0);
+						letter-spacing: 0.0em;
+						margin-top: 10px;
+						margin-bottom: 10px;
+						line-height: 1.4em;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj .preview-item-links span:before  ,  .style-aad06-asolnpbo .style-aad06-jyfnlvwj .effect-tester  { 
+						background-color: rgb(0, 0, 0);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj  .preview-content-wrapper  {
+		
+						text-align: center;
+						vertical-align: bottom;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj .preview-price  {
+		
+						font-family: Arial;	
+		}
+	
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj .blocks-preview-body-holder  {
+		
+						max-width: 800px;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj .preview-item-links span:hover  ,  .style-aad06-asolnpbo .style-aad06-jyfnlvwj .preview-element.Link.hover-tester  { 
+						color: rgb(255, 255, 255);
+						background-color: rgb(181, 181, 181);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj .subtitle-holder  {
+		
+						text-align: center;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj .inner-pic-holder  {
+		
+						background-color: rgb(50, 158, 212);	
+		}
+	
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj .blocks-preview-icon-holder .icon-source  {
+		
+						color: rgb(255, 255, 255);
+						width: 70px;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj .blocks-preview-content-wrapper  {
+		
+						text-align: center;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj .blocks-preview-title  {
+		
+						font-size: 20px;
+						text-transform: uppercase;
+						color: rgb(0, 0, 0);
+						letter-spacing: 0.0em;
+						margin-top: 10px;
+						margin-bottom: 10px;
+						font-family: Montserrat;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj .preview-body  {
+		
+						line-height: 1.4em;
+						font-size: 12px;
+						color: rgb(0, 0, 0);
+						max-width: 500px;
+						margin-right: 0px;
+						margin-top: 10px;
+						margin-bottom: 10px;
+						font-family: Arial;	
+		}
+	
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj .blocks-preview-item-links .Link  {
+		
+						font-size: 15px;
+						color: rgb(0, 0, 0);
+						padding-bottom: 5px;
+						border-color: rgb(0, 0, 0);
+						padding-right: 15px;
+						margin-top: 10px;
+						padding-left: 15px;
+						border-radius: 20px;
+						padding-top: 5px;
+						margin-bottom: 5px;
+						border-width: 2px;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj .preview-subtitle  ,  .style-aad06-asolnpbo .style-aad06-jyfnlvwj .preview-body h2  { 
+						font-family: Arial;
+						font-size: 12px;
+						color: rgb(0, 0, 0);
+						letter-spacing: 0em;
+						margin-right: 0px;
+						margin-top: 5px;
+						margin-left: 0px;
+						line-height: 1.4em;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj .middle_layout .helper-div  ,  .style-aad06-asolnpbo .style-aad06-jyfnlvwj .multi_layout .helper-div.middle-center .text-side  { 
+						max-width: 1050px;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-jyfnlvwj .pic-side:after  ,  .style-aad06-asolnpbo .style-aad06-jyfnlvwj .item-effect-tester  ,  .style-aad06-asolnpbo .style-aad06-jyfnlvwj .sub.item-box:after  { 
+						background-color: rgb(191, 52, 52);	
+		}
+
+/******************************************************************************************************
+ *            UNIQUE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+
+
+
+
+
+
+ .style-aad06-jyfnlvwj #vbid-aad06-vecq8ppy.inner-pic{
+				
+							background-position : 53.1348% 31.1659%;
+					
+				} .style-aad06-jyfnlvwj #vbid-aad06-y8yl54ud.inner-pic{
+				
+							background-position : 50% 22.7586212158203%;
+					
+				} .style-aad06-jyfnlvwj #vbid-aad06-aarney1m.inner-pic{
+				
+							background-position : 50.3448257446289% 5.51724147796631%;
+					
+				} .style-aad06-jyfnlvwj #vbid-aad06-3cwdydki.inner-pic{
+				
+							background-position : 45.5172424316406% 0%;
+					
+				} .style-aad06-jyfnlvwj #vbid-aad06-at0ataq4.inner-pic{
+				
+							background-position : 41.5% 16.0714282989502%;
+					
+				}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/******************************************************************************************************
+ *            WEBSITE STYLE
+ *                                 	 
+ ******************************************************************************************************/

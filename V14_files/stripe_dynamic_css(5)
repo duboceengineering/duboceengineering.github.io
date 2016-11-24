@@ -1,0 +1,148 @@
+/******************************************************************************************************
+ *            DYNAMIC STYLE FOR style-aad06-3z4ubz7d
+ *                                 	 
+ ******************************************************************************************************/
+	 .style-aad06-asolnpbo .style-aad06-3z4ubz7d .preview-title-holder  {
+		
+						text-align: left;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-3z4ubz7d.master.item-box   {
+		
+						position: relative;
+						background-color: rgb(255, 255, 255);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-3z4ubz7d .preview-item-links span:hover  ,  .style-aad06-asolnpbo .style-aad06-3z4ubz7d .preview-element.Link.hover-tester  { 
+						color: rgb(0, 0, 0);
+						background-color: rgba(147, 147, 147, 0);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-3z4ubz7d.master.item-box   {
+		
+						padding-left: 2%;
+						width: 96%;
+						padding-right: 2%;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-3z4ubz7d .preview-item-links  {
+		
+						text-align: center;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-3z4ubz7d  .preview-content-holder  {
+		
+						margin-right: 0px;
+						padding-bottom: 0px;
+						border-color: rgb(214, 214, 214);
+						max-width: 2000px;
+						padding-right: 5px;
+						margin-top: 0px;
+						margin-left: 0px;
+						margin-bottom: 5px;
+						background-color: rgba(0, 0, 0, 0);
+						text-align: left;
+						padding-left: 0px;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-3z4ubz7d .preview-item-links span  ,  .style-aad06-asolnpbo .style-aad06-3z4ubz7d #sr-basket-widget *  { 
+						font-family: Abel;
+						font-size: 12px;
+						text-transform: uppercase;
+						color: rgb(90, 90, 90);
+						padding-bottom: 0px;
+						border-color: rgba(255, 255, 255, 0.670588);
+						letter-spacing: 0.2em;
+						max-width: 1150px;
+						margin-right: 0px;
+						margin-top: 0px;
+						padding-left: 10px;
+						padding-top: 20px;
+						border-width: 11px;
+						background-color: rgba(255, 255, 255, 0);
+						padding-right: 10px;
+						margin-left: 0px;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-3z4ubz7d .preview-title  ,  .style-aad06-asolnpbo .style-aad06-3z4ubz7d .preview-body h1  { 
+						font-size: 27px;
+						color: rgb(0, 0, 0);
+						letter-spacing: 0.05em;
+						font-weight: bold;
+						margin-left: 0px;
+						font-family: "Titillium WebThin";
+						background-color: rgba(255, 255, 255, 0);
+						padding-left: 0px;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-3z4ubz7d .preview-item-links.allow-bg-color  ,  .style-aad06-asolnpbo .style-aad06-3z4ubz7d .submenu  { 
+						background-color: rgb(255, 255, 255);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-3z4ubz7d .item-content:not(.blocks_layout)  {
+		
+						background-color: rgba(244, 203, 74, 0);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-3z4ubz7d .preview-divider  {
+		
+						border-bottom-width: 1px;
+						width: 10%;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-3z4ubz7d .preview-item-links span:before  ,  .style-aad06-asolnpbo .style-aad06-3z4ubz7d .effect-tester  { 
+						background-color: rgb(0, 0, 0);	
+		}
+	 .style-aad06-asolnpbo .style-aad06-3z4ubz7d .preview-subtitle-holder  {
+		
+						text-align: left;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-3z4ubz7d .stripe-background  {
+		
+						margin-left: -2%;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-3z4ubz7d .preview-element.icon-source  {
+		
+						color: rgb(0, 0, 0);
+						margin-right: 10px;
+						margin-top: 5px;
+						margin-left: 10px;
+						margin-bottom: 5px;
+						width: 40px;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-3z4ubz7d  .preview-content-wrapper  {
+		
+						vertical-align: bottom;
+						text-align: left;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-3z4ubz7d .middle_layout .helper-div  ,  .style-aad06-asolnpbo .style-aad06-3z4ubz7d .multi_layout .helper-div.middle-center .text-side  { 
+						max-width: 1100px;	
+		}
+	 .style-aad06-asolnpbo .style-aad06-3z4ubz7d .preview-subtitle  ,  .style-aad06-asolnpbo .style-aad06-3z4ubz7d .preview-body h2  { 
+						font-size: 12px;
+						color: rgb(0, 0, 0);
+						letter-spacing: 0.05em;
+						margin-right: 0px;
+						margin-top: 0px;
+						margin-left: 0px;
+						font-family: Arial;	
+		}
+
+/******************************************************************************************************
+ *            UNIQUE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/******************************************************************************************************
+ *            WEBSITE STYLE
+ *                                 	 
+ ******************************************************************************************************/

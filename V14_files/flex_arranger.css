@@ -1,0 +1,98 @@
+.flex {
+	overflow: hidden;
+}
+
+.flex .flex-arrows{
+	position:relative;
+	cursor:pointer;
+	top:50%;
+	margin-top:-15px;
+	opacity:0;
+	-webkit-transition: opacity 1s cubic-bezier(0.165, 0.84, 0.44, 1);
+    -moz-transition: opacity 1s cubic-bezier(0.165, 0.84, 0.44, 1);
+    -o-transition: opacity 1s cubic-bezier(0.165, 0.84, 0.44, 1);
+    transition: opacity 1s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+.item-box:hover .flex .flex-arrows{
+	opacity:1;
+}
+
+.flex .flex-arrows.disabled{
+	opacity:0!important;
+}
+
+.flex .flex-arrows.left{
+	float:left;
+	padding: 2%;
+}
+
+.flex .flex-arrows.right{
+	float:right;
+	padding: 2%;
+}
+
+.flex .sub.item-box{
+	-webkit-transform: translate3d(0,0,0);
+	 -webkit-backface-visibility: hidden;
+	position:relative;
+	-webkit-transition: left 1s cubic-bezier(0.165, 0.84, 0.44, 1);
+    -moz-transition: left 1s cubic-bezier(0.165, 0.84, 0.44, 1);
+    -o-transition: left 1s cubic-bezier(0.165, 0.84, 0.44, 1);
+    transition: left 1s cubic-bezier(0.165, 0.84, 0.44, 1);
+    height:100%;
+    width:0px;
+    min-height:inherit;
+   /* display: table-cell;*/
+  	display:inline-block;
+   text-align:left;
+   vertical-align:middle;
+}
+
+.flex.container{
+	/*overflow: hidden;*/
+	position: relative;
+}
+
+.flex .sub.item-box:first-child{
+	width:100%;
+
+}
+
+.flex #children , .flex #items-holder-wrapper , .flex #items-holder {
+	height:100%;
+	min-height:inherit;
+	text-align:left;
+	/*display:table;*/
+	display:block;
+	table-layout:fixed;
+	width:100%;
+	font-size: 0px;/* for spaces caused by inline-block elements*/
+}
+
+.flex #items-holder-wrapper{
+    position: relative;
+}
+    
+
+.flex .page-navigator{
+	cursor:pointer;
+	float:left;
+	background-position: center;
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-image:url('/images/paginator.png');
+	width:13px;
+	height:13px;
+}
+
+.flex .page-navigator.active , .page-navigator:hover{
+	color:red;
+	background-image:url('/images/paginator-active.png');
+	
+}
+
+.flex #paginator{
+	position:absolute;
+	left: 50%;
+}
