@@ -1,6 +1,6 @@
 /* ============================
 
-	        COLOR 
+	        COLOR
 
 =============================== */
 .btn-link,.btn-link:hover,
@@ -25,8 +25,8 @@
 #video-controls a,
 .link-hover-color a:hover,
 .icons-hover-color i:hover,
-.navbar-default .navbar-nav > li.active > a, 
-.navbar-default .navbar-nav > li.active > a:focus, 
+.navbar-default .navbar-nav > li.active > a,
+.navbar-default .navbar-nav > li.active > a:focus,
 .navbar-default .navbar-nav > li.active > a:hover,
 #page .breadcrumb > .active,
 .timeliner li:hover .timeline-heading h4.subheading,
@@ -45,7 +45,7 @@ header .nav .open > a.highlighted,
 .btn-transparent-color,
 .btn-transparent-color-inverse:hover
 {
-	color: #ffc400;
+	color: #2877b1;
 }
 
 
@@ -55,7 +55,7 @@ header .nav .open > a.highlighted,
 /* ============================
 
 
-	       BACKGROUND COLOR 
+	       BACKGROUND COLOR
 
 =============================== */
 .top-bar-section.top-bar-bg-color,
@@ -89,18 +89,18 @@ h2.count-number:before,
 div.count-number:before,
 .static-color-icons span,
 .fill-icon:after,
-.bakery-menu .nav-tabs > li.active > a, 
-.bakery-menu .nav-tabs > li.active > a:focus, 
+.bakery-menu .nav-tabs > li.active > a,
+.bakery-menu .nav-tabs > li.active > a:focus,
 .bakery-menu .nav-tabs > li.active > a:hover,
 .travel-tab .input-group-addon,
 .travel-tab .nav-tabs > .active > a,
 .travel-tab .nav-tabs > .active > a:hover,
 .travel-tab .nav-tabs > .active > a:focus,
-.bootstrap-datetimepicker-widget table td.active, 
+.bootstrap-datetimepicker-widget table td.active,
 .bootstrap-datetimepicker-widget table td.active:hover,
 .travel-tab .nav-tabs > li a > i ,
-.hotel-tab .nav-tabs > li.active > a, 
-.hotel-tab .nav-tabs > li.active > a:focus, 
+.hotel-tab .nav-tabs > li.active > a,
+.hotel-tab .nav-tabs > li.active > a:focus,
 .hotel-tab .nav-tabs > li.active > a:hover,
 .navbar-default .navbar-toggle .icon-bar,
 .circle.count-number.border-color:before,
@@ -109,14 +109,14 @@ div.count-number:before,
 .image-bg .overlay-color,
 .overlay-color
 {
-	background-color: #ffc400;
+	background-color: #2877b1;
 }
 
 
 
 /* ============================
 
-	       BORDER COLOR 
+	       BORDER COLOR
 
 =============================== */
 
@@ -134,55 +134,55 @@ div.count-number:before,
 .btn-transparent-color:hover,
 .btn-transparent-color-inverse
 {
-	border-color: #ffc400;
+	border-color: #2877b1;
 }
 
 .bottom-arrow:before{
-	border-top-color: #ffc400;
+	border-top-color: #2877b1;
 }
-.rightGrip, 
+.rightGrip,
 .leftGrip{
-	border-bottom: 10px solid #ffc400 !important;
+	border-bottom: 10px solid #2877b1 !important;
 }
 
 .blog.timeliner >li:hover  .timeline-panel:before{
-  border-left-color: #ffc400;  
+  border-left-color: #2877b1;
 }
 .blog.timeliner  >li.timeline-inverted:hover .timeline-panel:before{
-  border-right-color: #ffc400;
+  border-right-color: #2877b1;
   border-left-color: #ffffff;
 }
 .right.blog.timeliner  >li.timeline-inverted:hover .timeline-panel:before,
 .right.blog.timeliner >li:hover  .timeline-panel:before{
-	border-right-color: #ffc400;
+	border-right-color: #2877b1;
 	border-left-color: #ffffff;
 }
 .pricing:hover i.icons-circle.medium.pricing-icon{
 	text-shadow: 0px 0px 5px rgba(255, 196, 0, 0.5);
-}	
-.top-up .nav-tabs > li.active > a:after, 
-.top-up  .nav-tabs > li.active > a:focus:after, 
+}
+.top-up .nav-tabs > li.active > a:after,
+.top-up  .nav-tabs > li.active > a:focus:after,
 .top-up .nav-tabs > li.active > a:hover:after{
-    border-color: #ffc400 transparent transparent;
+    border-color: #2877b1 transparent transparent;
 }
 
 /******************************************************************************
   Max Width "767px"
 *******************************************************************************/
-@media (max-width: 767px) { 
+@media (max-width: 767px) {
 	.blog.timeliner  >li.timeline-inverted:hover .timeline-panel:before,
 	.blog.timeliner >li:hover  .timeline-panel:before{
-		border-right-color: #ffc400;
+		border-right-color: #2877b1;
 		border-left-color: #ffffff;
 	}
 }
 /******************************************************************************
   Max Width "992px"
 *******************************************************************************/
-@media (min-width: 992px) { 
+@media (min-width: 992px) {
 
 	.navbar-bg-color{
-		background-color: #ffc400;
+		background-color: #2877b1;
 	}
 
 }
@@ -199,27 +199,13 @@ div.count-number:before,
 /* Content Select In Browser */
 
 ::-moz-selection {
-    background: #ffc400;
+    background: #2877b1;
     color: #000000;
     text-shadow: none;
 }
 
 ::selection {
-    background: #ffc400;
+    background: #2877b1;
     color: #a4003a;
     text-shadow: none;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
