@@ -1688,6 +1688,10 @@ border-radius:  50%;
 .tp-banner{
 	z-index:0;
 }
+.tp-banner h2.tp-caption.title, .tp-banner h2.tp-caption.upper {
+  color: white;
+  text-shadow: 2px 2px 2px #5d5d5d;
+}
 .slider.rs-slider-full{
 	float:left;
 	width:100%;
